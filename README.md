@@ -2,7 +2,7 @@
 ### Columbia University
 Taught by Professor Tony Dear
 
-Topic covered:
+Topics Covered:
 - Intelligent agents 
 - Utility theory       
 - Search algorithms        
