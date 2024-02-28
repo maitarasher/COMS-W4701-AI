@@ -8,7 +8,7 @@ Topics Covered:
 - Search algorithms        
 - Adversarial search and games    
 - Sequential decision problems     
-- Dynamic programming, 
+- Dynamic programming 
 - Reinforcement learning   
 - Uncertainty and Markov chains   
 - Hidden Markov models   
